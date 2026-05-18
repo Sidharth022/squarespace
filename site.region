@@ -76,6 +76,7 @@
             </div>
 
           </div>
+          Sidharth Gaur
           <div data-nc-container="top-center">
             {.if userAccountsContext.showSignInLink}
               <div class="Header-account" data-nc-element="account" data-controller="UserAccountLink">
@@ -178,6 +179,5 @@
     <squarespace:script src="site-bundle.js" combo="false" />
 
     {squarespace-footers}
-  Sidharth Goud
   </body>
 </html>
